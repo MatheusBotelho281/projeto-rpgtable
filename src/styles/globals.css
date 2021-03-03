@@ -1,0 +1,39 @@
+html,
+body {
+  background-color: #38373D;
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+/* Color Theme Swatches in Hex
+.Roxo-novo-1-hex { color: #948E7E; }
+.Roxo-novo-2-hex { color: #434243; }
+.Roxo-novo-3-hex { color: #9364D1; }
+.Roxo-novo-4-hex { color: #38373D; }
+.Roxo-novo-5-hex { color: #B6AC92; }
+
+Color Theme Swatches in RGBA
+.Roxo-novo-1-rgba { color: rgba(148, 142, 126, 1); }
+.Roxo-novo-2-rgba { color: rgba(67, 66, 67, 1); }
+.Roxo-novo-3-rgba { color: rgba(147, 100, 209, 1); }
+.Roxo-novo-4-rgba { color: rgba(56, 55, 61, 1); }
+.Roxo-novo-5-rgba { color: rgba(182, 172, 146, 1); }
+
+Color Theme Swatches in HSLA
+.Roxo-novo-1-hsla { color: hsla(43, 9, 53, 1); }
+.Roxo-novo-2-hsla { color: hsla(300, 0, 26, 1); }
+.Roxo-novo-3-hsla { color: hsla(265, 54, 60, 1); }
+.Roxo-novo-4-hsla { color: hsla(250, 5, 22, 1); }
+.Roxo-novo-5-hsla { color: hsla(43, 19, 64, 1); } */
