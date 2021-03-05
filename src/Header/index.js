@@ -15,7 +15,6 @@ export default function Header(props) {
           <div><HeaderLink TextoDoLink='Dados' /></div>
           <div><HeaderLink TextoDoLink='Baixar Conteúdo' /></div>
           <div><HeaderLink TextoDoLink='Notas do Mestre' /></div>
-          {/* <Menu /> */}
         </div>
       </InnerWrapper>
     </Wrapper>
